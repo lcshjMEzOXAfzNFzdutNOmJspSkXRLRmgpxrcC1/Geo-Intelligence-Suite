@@ -322,3 +322,6 @@ POST /upload-url
 ## License
 
 For personal / educational use. Respect the terms of service of all external APIs used.
+
+Apache License 2.0
+
